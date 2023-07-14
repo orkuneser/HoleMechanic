@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6d36f85817d208c4fb327c22dfed9081
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _NoTileNoiseTex: {fileID: 2800000, guid: af5515bfe14f1af4a9b8b3bf306b9261, type: 3}
+  - _Ramp: {fileID: 2800000, guid: ccad9b0732473ee4e95de81e50e9050f, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: USER,FRIM,FMATCAP_ADD,FMATCAP,FALPHA,FDITHERED_SHADOWS,FSPECULAR,FSPEC_LEGACY,FCULL_OPTION,FZWRITE_OFF,KSHADER_TARGET:3.0,chFEE3C1C4,cSM:30,cCF:TCP2_ShaderTemplate_Default
+  assetBundleName: 
+  assetBundleVariant: 
